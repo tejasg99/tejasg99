@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on full stack web applications <br>👯 I’m looking to collaborate on projects <br>🌱 I’m currently learning nextjs<br>💬 ask me anything about web development
+🔭 I’m currently working on full stack web applications <br>👯 I’m looking to collaborate on projects <br>🌱 I’m currently learning React Native<br>💬 ask me anything about web development
 
 
 ## 🌐 Socials:
